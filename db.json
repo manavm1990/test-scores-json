@@ -1,4 +1,5 @@
-[
+{
+  "scores": [
   {"name":"Adah Leffler","score":75,"id":1695843},
   {"name":"Jalyn Emmerich","score":69,"id":1430094},
   {"name":"Randy Erdman","score":58,"id":1216495},
@@ -50,3 +51,4 @@
   {"name":"Korey Schuster","score":73,"id":1843473},
   {"name":"Tre Dach","score":50,"id":1332014}
 ]
+}
